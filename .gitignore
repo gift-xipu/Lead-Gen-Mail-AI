@@ -42,3 +42,4 @@ luac.out
 # Environment Files
 *.env
 
+.env
